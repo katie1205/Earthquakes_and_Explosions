@@ -1,4 +1,3 @@
-#PROBLEM:
 #Simulate two series using sinusoidal functions for earthquakes and/or explosions 
 
 par(mfrow=c(3,1))
