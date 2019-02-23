@@ -1,4 +1,4 @@
-# E:earth_americas:arthquakes and Expl:collision:sions
+# Earth:earth_americas:uakes and Expl:collision:sions
 
 In this brief acitivty, I simulated two signal-in-noise time series in R using sinusoidal functions.
 
