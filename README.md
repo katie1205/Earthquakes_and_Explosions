@@ -1,4 +1,4 @@
-# Earthquakes and Explosions :collision:
+# :globe: quakes and Explosions :collision:
 
 In this breif acitivty, I simulated two signal-in-noise time series in R using sinusoidal functions.
 
